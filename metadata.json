@@ -1,0 +1,68 @@
+{
+  "name": "kikiverse #5878",
+  "symbol": "KIKI",
+  "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
+  "seller_fee_basis_points": 200,
+  "image": "https://bafybeighimsoffa34hafat73l56rrofbvnvovvng6w4rvr4jx5wm2gb4ua.ipfs.dweb.link/5878.png?ext=png",
+  "attributes": [
+   {
+      "trait_type": "Background",
+      "value": "rare (1)"
+    },
+    {
+      "trait_type": "Hair Before",
+      "value": "hairgirl8A_Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Dark"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "girl_shirt28"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Head_Dark"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Girl_eye (17)"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth14"
+    },
+    {
+      "trait_type": "Hair After",
+      "value": "hairgirl8B_Red"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "dog (31)"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Hug_Dark (2)"
+    },
+    {
+      "trait_type": "Effect",
+      "value": "Transparent"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
